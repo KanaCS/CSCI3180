@@ -1,0 +1,30 @@
+1071 Biking         C              NLP            C++            Photography    Front End      Back End       Games          
+1524 Biking         Java Script    Python         Photography    Java           COBOL          Front End      Fortran        
+2239 NLP            Music          Java Script    Python         Photography    CV             C              Open Source    
+3964 Music          Open Source    Dancing        Java           Games          C              Photography    TCP IP         
+4053 Biking         TCP IP         Dancing        Photography    NLP            COBOL          Python         Back End       
+4350 Back End       Biking         Photography    Java           Front End      C              NLP            CG             
+5018 COBOL          Front End      C++            Java Script    Neural Network CV             NLP            Python         
+5133 Java Script    CV             TCP IP         Dancing        Photography    Games          Python         Music          
+5267 CG             Python         Games          Back End       Photography    Music          Java           C              
+5325 CG             Photography    Fortran        C++            CV             Java           C              Music          
+5438 Fortran        Dancing        COBOL          CG             Java           Neural Network TCP IP         NLP            
+5709 Games          Biking         CV             Front End      Python         COBOL          NLP            C              
+6076 Neural Network Photography    Front End      Python         C              CG             Games          Music          
+6132 Python         Front End      Back End       CG             C              Biking         Fortran        CV             
+6967 Java           Biking         Open Source    NLP            Music          Front End      C              Dancing        
+7050 Dancing        Java           TCP IP         Java Script    C              Open Source    Neural Network Fortran        
+7082 Games          Music          Open Source    CG             C              Fortran        Photography    NLP            
+7225 COBOL          NLP            Neural Network Dancing        CG             Front End      CV             Python         
+7858 C              Java           Java Script    Fortran        Music          TCP IP         Biking         Open Source    
+7870 Dancing        Java Script    Biking         Games          Java           Music          NLP            C++            
+8056 Fortran        CG             Java Script    COBOL          Music          Front End      Dancing        Photography    
+8176 Biking         Dancing        Photography    Games          Java           TCP IP         Neural Network Python         
+8650 Neural Network Open Source    TCP IP         C              COBOL          Front End      Fortran        Biking         
+8693 Back End       Python         Fortran        Dancing        CG             TCP IP         Neural Network Games          
+9155 Dancing        Games          Biking         C              CG             Photography    Music          COBOL          
+9354 CG             Front End      Dancing        TCP IP         C++            COBOL          Neural Network Biking         
+9533 Open Source    Dancing        CV             TCP IP         NLP            COBOL          Python         Games          
+9594 Photography    Back End       Dancing        CG             Games          TCP IP         NLP            Music          
+9789 CG             Fortran        C              Games          Back End       Neural Network Front End      NLP            
+9902 Fortran        C++            Photography    Biking         Dancing        Back End       NLP            Games          
